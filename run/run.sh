@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#Comment
+
 env_conf_file=$1
 source $env_conf_file
 
